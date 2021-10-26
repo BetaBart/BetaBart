@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natasha
-- 🌱 I’m currently learning JavaScript.
+- 🌱 https://betabart.github.io/Hello-its-me/ 
 - 📫 How to reach me velvet.batasha@gmail.com
 
 <!---
