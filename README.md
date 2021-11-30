@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natasha
-- 🌱 https://betabart.github.io/Hello-its-me/ 
+- 🌱 https://betabart.github.io/my_cv/
 - 📫 How to reach me velvet.batasha@gmail.com
 
 <!---
